@@ -56,8 +56,6 @@
   <img src="https://raw.githubusercontent.com/NavamuthuS/NavamuthuS/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚠️ Snake animation setup pannanumna, keela irukra instructions follow pannunga (README kudutha apparam sollikuren)
-
 ---
 
 ### 📊 GitHub Stats
