@@ -1,13 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Navamuthu.S;AI+%26+Data+Science+Engineer;RAG+%26+GenAI+Builder;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Navamuthu.S+%F0%9F%95%B8%EF%B8%8F;AI+%26+Data+Science+Engineer;RAG+%26+GenAI+Builder;Full-Stack+Web+Developer;Turning+Coffee+Into+Code+Since+2023" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:DC2626&height=200&section=header&text=Web-Slinger%20Coder&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a1a,100:DC2626&height=220&section=header&text=Web-Slinger%20Coder&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Weaving%20code%20like%20a%20spider%20weaves%20webs&descAlignY=60&descSize=18&descColor=DC2626" />
 </p>
 
 <p align="center">
-  <em>🕸️ Weaving code the way a spider weaves webs — precise, connected, and built to hold under pressure. 🕸️</em>
+  <img src="https://komarev.com/ghpvc/?username=NavamuthuS&label=Profile+Views&color=DC2626&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Web--Slinging-DC2626?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
 ---
@@ -20,24 +21,42 @@
 - 🌐 Portfolio: [navamuthus.github.io/My_Protfolio](https://navamuthus.github.io/My_Protfolio)
 - 📫 Reach me: navamuthu2007@gmail.com
 
+> *"With great code comes great responsibility."*
+
 ---
 
-### 🕸️ My Web (Tech Stack)
+### 🕸️ The Web I Weave (Tech Stack)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,html,css,js,git,github,vscode,mongodb,sqlite,streamlit&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,html,css,js,git,github,vscode,mongodb,sqlite,streamlit&theme=dark&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-Systems-DC2626?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/LangChain-DC2626?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Gemini_API-DC2626?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
 ---
 
 ### 🎯 Current Missions
 
-```
+```yaml
 🔭 Working On   : MediAssist AI — RAG-powered medical assistant
 🌱 Learning     : Machine Learning (NPTEL) & AWS Cloud Practitioner
 🤝 Open To      : Freelance projects & collaboration
-⚡ Fun Fact     : I debug like Spidey dodges danger — fast, focused, no panic
+⚡ Fun Fact     : I debug like a spider dodges danger — fast, focused, no panic
 ```
+
+---
+
+### 🕸️ My Web Crawls Through Code (Contribution Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NavamuthuS/NavamuthuS/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> ⚠️ Snake animation setup pannanumna, keela irukra instructions follow pannunga (README kudutha apparam sollikuren)
 
 ---
 
@@ -50,6 +69,18 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavamuthuS&theme=dark&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NavamuthuS&theme=react-dark&hide_border=true&bg_color=0D1117&color=DC2626&line=DC2626&point=ffffff" />
+</p>
+
+---
+
+### 🏆 Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NavamuthuS&theme=darkhub&no-frame=true&row=1&column=6&title=Repositories,Commits,Stars,PullRequest" />
 </p>
 
 ---
@@ -69,7 +100,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:1a1a1a&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:DC2626,100:0d1117&height=100&section=footer" />
 </p>
-
-<p align="center"><em>"With great code comes great responsibility."</em></p>
