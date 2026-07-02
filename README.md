@@ -15,11 +15,12 @@
 
 <br/>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### About
+<h3 align="center">✦ &nbsp; A B O U T &nbsp; ✦</h3>
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━</sub></p>
 
 ```
 class Navamuthu {
@@ -33,12 +34,16 @@ class Navamuthu {
 </td>
 <td width="50%" valign="top">
 
-### Currently
+<h3 align="center">✦ &nbsp; C U R R E N T L Y &nbsp; ✦</h3>
+<p align="center"><sub>━━━━━━━━━━━━━━━━━━━━</sub></p>
 
-- Working on: MediAssist AI — RAG-powered medical assistant
-- Learning: Machine Learning (NPTEL) + AWS Cloud Practitioner
-- Open to: Freelance projects & collaboration
-- Reach me: navamuthu2007@gmail.com
+▸ &nbsp;**Working on** — MediAssist AI, a RAG-powered medical assistant
+<br/><br/>
+▸ &nbsp;**Learning** — Machine Learning (NPTEL) + AWS Cloud Practitioner
+<br/><br/>
+▸ &nbsp;**Open to** — Freelance projects &amp; collaboration
+<br/><br/>
+▸ &nbsp;**Reach me** — navamuthu2007@gmail.com
 
 </td>
 </tr>
