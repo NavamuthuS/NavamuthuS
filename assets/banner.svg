@@ -1,0 +1,30 @@
+<svg width="100%" height="260" viewBox="0 0 680 260" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Navamuthu.S profile banner</title>
+<desc>A black and gold custom banner with geometric accents, name, and role tagline</desc>
+<rect x="0" y="0" width="680" height="260" fill="#0A0A0A"/>
+<rect x="0" y="0" width="680" height="260" fill="none" stroke="#D4AF37" stroke-width="1" opacity="0.4"/>
+<g opacity="0.5">
+<line x1="0" y1="0" x2="60" y2="0" stroke="#D4AF37" stroke-width="1.5"/>
+<line x1="0" y1="0" x2="0" y2="60" stroke="#D4AF37" stroke-width="1.5"/>
+<line x1="680" y1="260" x2="620" y2="260" stroke="#D4AF37" stroke-width="1.5"/>
+<line x1="680" y1="260" x2="680" y2="200" stroke="#D4AF37" stroke-width="1.5"/>
+</g>
+<g transform="translate(60,60)">
+<polygon points="0,0 30,17 30,51 0,68 -30,51 -30,17" fill="none" stroke="#D4AF37" stroke-width="1.5"/>
+<polygon points="0,17 15,26 15,43 0,52 -15,43 -15,26" fill="#D4AF37" opacity="0.15"/>
+<text x="0" y="6" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#D4AF37">N</text>
+</g>
+<text x="130" y="110" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#F5D77E" letter-spacing="2">NAVAMUTHU.S</text>
+<text x="130" y="142" font-family="Arial, sans-serif" font-size="15" fill="#B8860B" letter-spacing="3">AI &amp; DATA SCIENCE ENGINEER</text>
+<line x1="130" y1="160" x2="480" y2="160" stroke="#D4AF37" stroke-width="0.5" opacity="0.6"/>
+<text x="130" y="185" font-family="Arial, sans-serif" font-size="13" fill="#8A8A8A" letter-spacing="1">RAG SYSTEMS &#8226; GENAI &#8226; FULL-STACK DEVELOPMENT</text>
+<g transform="translate(560,120)">
+<circle cx="0" cy="0" r="45" fill="none" stroke="#D4AF37" stroke-width="0.5" opacity="0.4"/>
+<circle cx="0" cy="0" r="32" fill="none" stroke="#D4AF37" stroke-width="0.5" opacity="0.6"/>
+<circle cx="0" cy="0" r="4" fill="#D4AF37"/>
+<circle cx="32" cy="0" r="3" fill="#F5D77E"/>
+<circle cx="-22" cy="23" r="3" fill="#F5D77E"/>
+<circle cx="-22" cy="-23" r="3" fill="#F5D77E"/>
+</g>
+<text x="130" y="220" font-family="Georgia, serif" font-style="italic" font-size="13" fill="#6B6B6B">Building intelligent systems, one commit at a time.</text>
+</svg>
