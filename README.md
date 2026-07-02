@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366F1,100:22D3EE&height=280&section=header&text=NAVAMUTHU.S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%A2%20GenAI%20%26%20RAG%20Builder&descAlignY=52&descSize=22&descColor=E0E7FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:B8860B,100:FFD700&height=280&section=header&text=NAVAMUTHU.S&fontSize=70&fontColor=FFD700&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%E2%80%A2%20GenAI%20%26%20RAG%20Builder&descAlignY=52&descSize=22&descColor=F5DEB3" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+RAG+%26+GenAI+Systems;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%A4%96+Turning+Ideas+Into+Intelligent+Apps;%F0%9F%93%88+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+RAG+%26+GenAI+Systems;%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%A4%96+Turning+Ideas+Into+Intelligent+Apps;%F0%9F%93%88+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=NavamuthuS&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_FREELANCE-22D3EE?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/LOCATION-TAMIL_NADU%2C_INDIA-6366F1?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=NavamuthuS&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_FREELANCE-FFD700?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/LOCATION-TAMIL_NADU%2C_INDIA-FFD700?style=for-the-badge&labelColor=000000" />
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 About Me
+### 🖤 About Me
 
 ```
 class Navamuthu {
@@ -37,7 +37,7 @@ class Navamuthu {
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Currently
+### ✨ Currently
 
 - 🔭 **Working on:** MediAssist AI — RAG-powered medical assistant
 - 🌱 **Learning:** Machine Learning (NPTEL) + AWS Cloud Practitioner
@@ -59,12 +59,12 @@ class Navamuthu {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/RAG_Systems-0d1117?style=for-the-badge&labelColor=6366F1" />
-<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&labelColor=6366F1" />
-<img src="https://img.shields.io/badge/Gemini_API-0d1117?style=for-the-badge&labelColor=6366F1" />
-<img src="https://img.shields.io/badge/Groq-0d1117?style=for-the-badge&labelColor=6366F1" />
-<img src="https://img.shields.io/badge/ChromaDB-0d1117?style=for-the-badge&labelColor=6366F1" />
-<img src="https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&labelColor=6366F1" />
+<img src="https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge&labelColor=FFD700&color=000000" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&labelColor=FFD700&color=000000" />
+<img src="https://img.shields.io/badge/Gemini_API-000000?style=for-the-badge&labelColor=FFD700&color=000000" />
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&labelColor=FFD700&color=000000" />
+<img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&labelColor=FFD700&color=000000" />
+<img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&labelColor=FFD700&color=000000" />
 
 </div>
 
@@ -84,10 +84,10 @@ class Navamuthu {
 
 ### 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NavamuthuS&show_icons=true&theme=radical&hide_border=true&title_color=22D3EE&icon_color=6366F1&text_color=ffffff&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavamuthuS&layout=compact&theme=radical&hide_border=true&title_color=22D3EE&text_color=ffffff&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NavamuthuS&show_icons=true&theme=nightowl&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavamuthuS&layout=compact&theme=nightowl&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=000000" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NavamuthuS&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NavamuthuS&theme=nightowl&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 
 </div>
 
@@ -97,7 +97,7 @@ class Navamuthu {
 
 ### 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=NavamuthuS&theme=radical&no-frame=true&row=1&column=6&title=Repositories,Commits,Stars,PullRequest,Followers" />
+<img src="https://github-profile-trophy.vercel.app/?username=NavamuthuS&theme=matrix&no-frame=true&row=1&column=6&title=Repositories,Commits,Stars,PullRequest,Followers" />
 
 </div>
 
@@ -107,15 +107,15 @@ class Navamuthu {
 
 ### 🔗 Let's Connect
 
-<a href="https://www.linkedin.com/in/navamuthus" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:navamuthu2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
-<a href="https://wa.me/919884987918" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=22D3EE" /></a>
-<a href="https://navamuthus.github.io/My_Protfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" /></a>
+<a href="https://www.linkedin.com/in/navamuthus" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" /></a>
+<a href="mailto:navamuthu2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" /></a>
+<a href="https://wa.me/919884987918" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=FFD700" /></a>
+<a href="https://navamuthus.github.io/My_Protfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:B8860B,100:000000&height=150&section=footer" width="100%"/>
 
-<i>"Code is the closest thing we have to magic — I just like casting spells that actually compile."</i>
+<i>✨ "Code is the closest thing we have to magic — I just like casting spells that actually compile." ✨</i>
 
 </div>
